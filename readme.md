@@ -15,8 +15,7 @@ Follow along with these steps:
 9. create pull request to gitlaura
 10. watch it get merged
 11. $git checkout master
-11. $git fetch
-12. $git merge
-13. $git branch -d old_branch_name
+11. $git pull
+12. $git branch -d old_branch_name
 
 The start over! 
