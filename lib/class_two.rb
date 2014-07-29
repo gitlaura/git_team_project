@@ -1,5 +1,5 @@
 class Two
 	def self.shout
-		puts "Hello from the class two editor!"
+		puts "Happy Tuesday!"
 	end
 end
