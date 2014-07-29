@@ -1,5 +1,5 @@
 class Three
-	def self.example_method
+	def self.shout
 		puts "Hello from the class three editor!"
 	end
 end

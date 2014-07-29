@@ -5,9 +5,9 @@ require_relative 'lib/class_four.rb'
 require_relative 'lib/class_five.rb'
 require_relative 'lib/class_six.rb'
 
-One.example_method
-Two.example_method
-Three.example_method
-Four.example_method
-Five.example_method
-Six.example_method
+One.shout
+Two.shout
+Three.shout
+Four.shout
+Five.shout
+Six.shout
