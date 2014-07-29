@@ -1,4 +1,4 @@
-Welcome to the Git Class Project!
+Welcome to the Git Class Project
 
 This small ruby project was created so that a class of people can practice cloning, branching, creating pull requests, and merging in git. 
 
