@@ -2,7 +2,7 @@ Welcome to the Git Class Project!
 
 This small ruby project was created so that a class of people can practice cloning, branching, creating pull requests, and merging in git. 
 
-How to start:
+Follow along with these steps:
 
 1. Get a number assigned to you so you know which class to edit. 
 2. $git clone 
