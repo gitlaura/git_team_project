@@ -10,7 +10,7 @@ Follow along with these steps:
 4. $git checkout <firstname-description>
 5. Edit the class you've been assigned
 6. $git add . 
-7. $git commit -m"message_here"
+7. $git commit -m"message"
 8. $git push origin <firstname-description>
 9. Create pull request to gitlaura
 10. Git owner merges each branch
