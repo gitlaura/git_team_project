@@ -1,6 +1,6 @@
 class Three
 	def self.shout
-		puts "Hello from Laura, the class three editor!"
+		puts "What's up Laura!"
 		puts "**Class Three Break**"
         end
 end
